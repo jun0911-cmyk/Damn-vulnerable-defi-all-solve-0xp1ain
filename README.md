@@ -30,10 +30,10 @@ If you want to know more about me or have any questions, please contact me at an
 - [Level 12: Climber](./test/climber/climber.challenge.js)
 - [Level 13: Wallet Mining](./test/wallet-mining/wallet-mining.challenge.js)
 - [Level 14: Puppet V3](./test/puppet-v3/puppet-v3.challenge.js)
-- [Level 15: ABI Smuggling] - Not yet solved
-- [Level 16: Shards] - Not yet solved
-- [Level 17: Curvy Puppet] - Not yet solved
-- [Level 18: Withdrawal] - Not yet solved
+- [Level 15: ABI Smuggling](./test/abi-smuggling/abi-smuggling.challenge.js)
+- [Level 16: Shards] - (Not V3 Challenge!!)
+- [Level 17: Curvy Puppet] - (Not V3 Challenge!!)
+- [Level 18: Withdrawal] - (Not V3 Challenge!!)
 
 ## Play
 
